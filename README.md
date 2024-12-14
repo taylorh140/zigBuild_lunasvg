@@ -1,0 +1,2 @@
+clone and 
+zig build
